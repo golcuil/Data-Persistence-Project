@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 3/4/2022 4:43:41 PM : Starting /Users/berkaygolcu/Desktop/GameDev/Unity/2020.3.27f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136.719ms
+moved types parse time: 150ms
+candidates parse time : 8ms
+C# parse time         : 532ms
+candidates check time : 105ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/4/2022 4:44:03 PM : Starting /Users/berkaygolcu/Desktop/GameDev/Unity/2020.3.27f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 198.77ms
+moved types parse time: 134ms
+candidates parse time : 6ms
+C# parse time         : 548ms
+candidates check time : 119ms
+console write time    : 0ms
+
